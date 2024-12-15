@@ -62,7 +62,7 @@ p {
 
 .button {
     text-decoration: none;
-    background: #6200ee;  /* Primary purple */
+    background: #ee6f00;  /* Primary purple */
     color: white;
     padding: 0.8rem 2rem;
     border-radius: 8px;
@@ -119,5 +119,5 @@ p {
 }
 
 .course-card:hover {
-    background: #3700b3; /* Darker purple on hover */
+    background: #ee6f00; /* Darker purple on hover */
 }
